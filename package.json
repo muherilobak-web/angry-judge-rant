@@ -1,0 +1,1 @@
+{"description":"Angry Judge: The Short Rant Contest entry — a furious rant at a gaslighting office printer","license":"MIT","main":"main.ts","name":"angry-judge-rant","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
